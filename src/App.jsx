@@ -6,7 +6,7 @@ import { motion } from 'framer-motion'
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-zinc-700 text-white flex flex-col items-center px-4 py-6">
+    <div className="min-h-screen bg-gradient-to-b from-zinc-900 to-zinc-800 text-white flex flex-col items-center px-4 py-6">
       <div className='mt-20'>
 
       </div>
